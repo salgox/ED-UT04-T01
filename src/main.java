@@ -10,8 +10,10 @@ public class main {
         System.out.println(p2.brillo);
          */
 
+        /*
         pantalla3Default p3 = new pantalla3Default(144, 100, true);
         System.out.println(p3.freeSync);
+        */
     }
 }
 
